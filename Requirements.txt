@@ -12,5 +12,3 @@ textblob          # (if doing any sentiment analysis)
 emoji             # (if cleaning emojis from comments)
 regex             # (for custom regex cleaning if used)
 
-# spaCy English language model
-en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
