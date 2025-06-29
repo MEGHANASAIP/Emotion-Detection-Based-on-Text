@@ -3,10 +3,4 @@ pandas
 numpy
 scikit-learn
 spacy
-joblib        
-matplotlib
-seaborn
-wordcloud
-nltk
-textblob
-emoji
+joblib
